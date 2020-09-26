@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cupnoodles:noodles"
+    },
+    {
+      "item": "cupnoodles:cup"
+    }
+  ],
+  "result": {
+    "item": "cupnoodles:closed_cup_noodles",
+    "count": 1
+  }
+}

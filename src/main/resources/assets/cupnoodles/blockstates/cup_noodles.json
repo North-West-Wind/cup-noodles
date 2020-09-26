@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "sips=0": {
+      "model": "cupnoodles:block/cup_noodles"
+    },
+    "sips=1": {
+      "model": "cupnoodles:block/cup_noodles0"
+    },
+    "sips=2": {
+      "model": "cupnoodles:block/cup_noodles1"
+    },
+    "sips=3": {
+      "model": "cupnoodles:block/cup_noodles2"
+    }
+  }
+}

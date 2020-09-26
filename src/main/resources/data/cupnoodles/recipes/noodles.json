@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#C#",
+    "#G#",
+    "#U#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:wheat"
+    },
+    "C": {
+      "item": "minecraft:carrot"
+    },
+    "G": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "U": {
+      "item": "minecraft:cooked_cod"
+    }
+  },
+  "result": {
+    "item": "cupnoodles:noodles",
+    "count": 1
+  }
+}

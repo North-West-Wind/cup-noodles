@@ -1,0 +1,10 @@
+{
+  "block.cupnoodles.cup_noodles": "Cup Noodles",
+  "block.cupnoodles.closed_cup_noodles": "Closed Cup Noodles",
+  "block.cupnoodles.cup": "Empty Cup",
+  "block.cupnoodles.water_boiler": "Water Boiler",
+
+  "item.cupnoodles.boiled_water_bucket": "Boiled Water Bucket",
+  "item.cupnoodles.chopstick": "Chopstick",
+  "item.cupnoodles.noodles": "Noodles"
+}

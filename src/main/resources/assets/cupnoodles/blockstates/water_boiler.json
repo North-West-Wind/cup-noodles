@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "cupnoodles:block/water_boiler_north" },
+    "facing=south": { "model": "cupnoodles:block/water_boiler_south" },
+    "facing=west":  { "model": "cupnoodles:block/water_boiler_west" },
+    "facing=east":  { "model": "cupnoodles:block/water_boiler_east" }
+  }
+}
